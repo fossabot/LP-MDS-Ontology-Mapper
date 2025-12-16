@@ -1,4 +1,6 @@
 # MDS Mapper Service
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWeltraumschaf%2FLP-MDS-Ontology-Mapper.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FWeltraumschaf%2FLP-MDS-Ontology-Mapper?ref=badge_shield)
+
 
 The Mobility Data Space Mapper Service maps Extended Dataset Profiles into
 the mobility data space specific ontology.
@@ -97,3 +99,7 @@ See [Scripts README](scripts/README.md).
 ## Docker
 
 See [Docker README](docker/README.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWeltraumschaf%2FLP-MDS-Ontology-Mapper.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FWeltraumschaf%2FLP-MDS-Ontology-Mapper?ref=badge_large)
